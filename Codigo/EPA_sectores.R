@@ -119,7 +119,7 @@ p3 <- ggplot(datoslong) +
   geom_area(aes(x = Ano, y = Ocupados, fill = Sector2), color = "white", lwd = .1) +
   geom_text(data = labels, mapping = aes(x = x, y = y, label = label), col = "white") +
   scale_fill_okabe_ito(order = c(2,4,1,3)) +
-  ggtitle(label = "Galicia. Persoas ocupadas por sectores",
+  ggtitle(label = "Galicia. Persoas ocupadas por sectores (miles)",
           subtitle = "Datos: Enquisa de Poboación Activa, INE") +
   theme(legend.position = "None",
         panel.background = element_rect(fill = "white"),
