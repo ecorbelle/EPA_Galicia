@@ -141,6 +141,6 @@ print(p2)
 dev.off()
 
 
-png("EPA_Galicia_3.png", width = 15, height = 10, units = "cm", res = 300)
+png("EPA_Galicia_3.png", width = 15, height = 10, units = "cm", res = 250)
 print(p3)
 dev.off()
