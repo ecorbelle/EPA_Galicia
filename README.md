@@ -8,3 +8,5 @@ Datos orixinais: [Enquisa de Poboación Activa (IGE-INE)](https://www.ige.gal/ig
 
 ![Gráfico 3](EPA_Galicia_3.png)
 
+![Mapas](AfilSsEspacial.png)
+
